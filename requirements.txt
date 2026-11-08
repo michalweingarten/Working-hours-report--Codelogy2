@@ -1,0 +1,5 @@
+pdf2image
+pytesseract
+pytest
+pytest-cov
+playwright
